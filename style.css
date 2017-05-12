@@ -43,9 +43,24 @@ summary {
     position: absolute;
   }
 
-  #p2{
+  .p10{
+    font-size:200%;
+    font-weight: bold;
+    color:red;
+    font-style: italic;
   }
-
+  .p11{
+    font-size:150%;
+    font-weight: bold;
+    color:orange;
+    font-style: italic;
+  }
+  .p12{
+    font-size:150%;
+    font-weight: bold;
+    color:blue;
+    font-style: italic;
+  }
 
   #l1{
     text-align: center;
