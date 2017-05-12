@@ -28,6 +28,10 @@ summary {
     overflow: hidden;
   }
 
+  #pp{
+    margin-left: 45%;
+  }
+
   #hlogo{
     height: 40px;
     width:80px;
