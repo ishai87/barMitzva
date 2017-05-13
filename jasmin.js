@@ -3,7 +3,7 @@ var b1= document.getElementById("q");
 b1.onclick=function() {
 
   var x1=document.getElementById("a").value;
-  if (x1=="לוי"){
+  if (x1=="101"){
     window.location.href="jasmin1.html";
     }
     else {

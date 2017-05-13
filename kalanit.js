@@ -3,7 +3,7 @@ var b1= document.getElementById("q");
 b1.onclick=function() {
 
   var x1=document.getElementById("a").value;
-  if (x1=="מיכל"){
+  if (x1=="1899"){
     window.location.href="kalanit1.html";
     }
     else {

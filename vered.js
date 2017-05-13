@@ -3,7 +3,7 @@ var b1= document.getElementById("q");
 b1.onclick=function() {
 
   var x1=document.getElementById("a").value;
-  if (x1=="דוד בן גוריון"){
+  if (x1=="בויטלר"){
     window.location.href="vered1.html";
     }
     else {
